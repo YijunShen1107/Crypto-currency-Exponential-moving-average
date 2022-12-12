@@ -7,3 +7,5 @@ crypto, the short term potential is higher than the long term performance of the
 2. refinement 1: Risk-Weight Portfolio. using the position to divid 20 days rolling volitality, to adjust the weight of each
 3. refinement 2: instead of using equal weighted for 30 crypto, we use 20-day exponential moving average directly minus 50-day ema to generate the signal,
    and only choose one to long and one to short. 
+
+implement 2 is just a document for myself to keep on track. There are a lot of testing coding and graphing. 
